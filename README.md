@@ -1,1 +1,2 @@
-## Hi there 👋
+## Hi, I'm Yannick Sala 👋
+I’m currently undergoing web development training at AFPA, shifting my career towards web development. Passionate about digital arts and interactive creation, I consider myself a versatile creator. Beyond development, I explore various forms of expression like illustration, painting, game design, web design, and even music.
